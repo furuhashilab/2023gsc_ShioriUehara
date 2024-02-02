@@ -22,3 +22,4 @@
 # 謝辞
 本研究を進めるにあたり、古橋教授をはじめ、多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
 # 参考文献リスト
+https://docs.google.com/spreadsheets/d/1VDGI0ggjRuoWZbTHGGcxZK3Zis2dVklIGidlAeMQwjs/edit?usp=sharing
