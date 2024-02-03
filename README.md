@@ -37,9 +37,6 @@
 ## 2.作成したストーリーテリング
 [Mapbox Storytelling](https://www.mapbox.jp/blog/how-to-build-a-scrollytelling-map)を使って作成した。GitHub内に、作品のconfig.jsとindex.htmlをアップロードしており、GitHub Pagesにおいて公開している。
 
-※ストーリーテリングはこちらからご覧いただけます。
-https://github.com/furuhashilab/2023gsc_ShioriUehara/deployments/github-pages
-
 ### 技術的なトラブルとその対応
 **1. ストーリーテリングが表示されなくなる**
    
