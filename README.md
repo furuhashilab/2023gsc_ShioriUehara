@@ -17,10 +17,10 @@
 # Introduction
 「音楽は国境を越える」「音楽は世界共通言語だ」というのはよく聞かれる言葉だ。今や音楽は、地理的境界を超えて社会的な交流や文化の共有を促進する力強い手段となっている。本研究は、音楽の地理的拡散が、異なる地域や文化にどのような影響を与えているかを解明することを目的とする。具体的には、ジャズミュージックを取り上げ、その音楽ジャンルやスタイルがどのように広がり、変容し、他の地域の音楽文化に影響を与えているかを明らかにしたい。
 # Method
-## 研究計画
+**研究計画**
 - 文献調査により、ジャズの発展・拡散の歴史を調べる。
 - その結果をMapbox Storytellingでまとめる。
-## 使用ツール
+**使用ツール**
 - [参考文献リスト](https://docs.google.com/spreadsheets/d/1VDGI0ggjRuoWZbTHGGcxZK3Zis2dVklIGidlAeMQwjs/edit?usp=sharing)
 - [Mapbox Storytelling](https://github.com/mapbox/storytelling)
 # Result
