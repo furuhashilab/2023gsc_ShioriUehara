@@ -20,6 +20,7 @@
 **研究計画**
 - 文献調査により、ジャズの発展・拡散の歴史を調べる。
 - その結果をMapbox Storytellingでまとめる。
+
 **使用ツール**
 - [参考文献リスト](https://docs.google.com/spreadsheets/d/1VDGI0ggjRuoWZbTHGGcxZK3Zis2dVklIGidlAeMQwjs/edit?usp=sharing)
 - [Mapbox Storytelling](https://github.com/mapbox/storytelling)
