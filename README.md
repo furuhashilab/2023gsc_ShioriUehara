@@ -24,12 +24,29 @@
 # Method
 **研究計画**
 - 文献調査により、ジャズの発展・拡散の歴史を調べる。
-- その結果をMapbox Storytellingでまとめる。
+- その結果をストーリーテリングでまとめる。
 
 **使用ツール**
 - [参考文献リスト](https://docs.google.com/spreadsheets/d/1VDGI0ggjRuoWZbTHGGcxZK3Zis2dVklIGidlAeMQwjs/edit?usp=sharing)
 - [Mapbox Storytelling](https://github.com/mapbox/storytelling)
 # Result
+## 1.文献調査
+文献調査から、ジャズの歴史を紐解くことができた。最後に、ストーリーテリング用にスプレッドシートを用意した。
+
+## 2.作成したストーリーテリング
+[Mapbox Storytelling](https://www.mapbox.jp/blog/how-to-build-a-scrollytelling-map)を使って作成した。GitHub内に、作品のconfig.jsとindex.htmlをアップロードしており、GitHub Pagesにおいて公開している。
+
+**技術的なトラブルとその対応**
+1. ストーリーテリングが表示されなくなる
+   
+テンプレートは4チャプターしか用意されていないため、チャプター数を増やすためコピペしたら、index.htｍlに表示されなくなってしまった。config.js.templeteのコードを、'third-identifier'と'fourth-chapter'のみコピー＆ペーストしたことが原因と思われる。'slug-style-id'から'fourth-chapter'の4つのまとまり全てをコピーすることで解決した。
+
+2. 座標が移動しない
+
+コピーした箇所以降、新しい座標を入力しても最初の4つの座標が引き継がれてしまって正しい位置に移動しない。idを変更していなかったことが原因と考えられる。idを順番に応じて、fifth...、sixth...と変えることによって解決した。
+   
+※ストーリーテリングはこちらからご覧いただけます。
+[https://github.com/furuhashilab/2023gsc_ShioriUehara/deployments/github-pages](https://github.com/furuhashilab/2023gsc_ShioriUehara/deployments/github-pages)
 # Discussion
 # Conclusion
 # 謝辞
