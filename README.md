@@ -37,12 +37,12 @@
 ## 2.作成したストーリーテリング
 [Mapbox Storytelling](https://www.mapbox.jp/blog/how-to-build-a-scrollytelling-map)を使って作成した。GitHub内に、作品のconfig.jsとindex.htmlをアップロードしており、GitHub Pagesにおいて公開している。
 
-**技術的なトラブルとその対応**
-1. ストーリーテリングが表示されなくなる
+### 技術的なトラブルとその対応
+**1. ストーリーテリングが表示されなくなる**
    
 テンプレートは4チャプターしか用意されていないため、チャプター数を増やすためコピペしたら、index.htｍlに表示されなくなってしまった。config.js.templeteのコードを、'third-identifier'と'fourth-chapter'のみコピー＆ペーストしたことが原因と思われる。'slug-style-id'から'fourth-chapter'の4つのまとまり全てをコピーすることで解決した。
 
-2. 座標が移動しない
+**2. 座標が移動しない**
 
 コピーした箇所以降、新しい座標を入力しても最初の4つの座標が引き継がれてしまって正しい位置に移動しない。idを変更していなかったことが原因と考えられる。idを順番に応じて、fifth...、sixth...と変えることによって解決した。
    
