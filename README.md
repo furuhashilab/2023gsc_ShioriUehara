@@ -30,7 +30,7 @@
 
 # Result
 ## 1.文献調査
-文献調査から、ジャズの歴史を紐解くことができた。
+文献調査から、ジャズの歴史を紐解くことができた。（内容はストーリーテリングに記しているため割愛）
 
 最後に、ストーリーテリング用に[スプレッドシート](https://docs.google.com/spreadsheets/d/1jrucj6drEVqG1iEl1tAoCa2vmzFPrBdgiYhN_jwYRkE/edit?usp=sharing)を用意した。
 
